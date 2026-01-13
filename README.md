@@ -26,7 +26,7 @@ The model utilizes a **frozen pretrained DINOv3-Small Vision Transformer** as a 
 ├── train.py         # Training pipeline
 ├── test.py          # Evaluation script (PSNR/SSIM/MSE/MAE)
 ├── config.py        # Hyperparameters and I/O configuration
-└── outputs/         # Checkpoints, metrics, visualization
+└── test_results/    # Metrics, visualization
 
 ```
 
