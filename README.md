@@ -18,15 +18,15 @@ The model utilizes a **frozen pretrained DINOv3-Small Vision Transformer** as a 
 
 ## Project Structure
 ```
-├── model.py # Main architecture (denoise + inpaint)
-├── encoder.py # DINOv3 + LoRA integration
-├── decoder.py # Dual-task decoder
-├── dataloader.py # Dataset loader with noise & masking
-├── lora.py # Low-Rank Adapter implementation
-├── train.py # Training pipeline
-├── test.py # Evaluation script (PSNR/SSIM/MSE/MAE)
-├── config.py # Hyperparameters and I/O configuration
-└── outputs/ # Checkpoints, metrics, visualization
+├── model.py         # Main architecture (denoise + inpaint)
+├── encoder.py       # DINOv3 + LoRA integration
+├── decoder.py       # Dual-task decoder
+├── dataloader.py    # Dataset loader with noise & masking
+├── lora.py          # Low-Rank Adapter implementation
+├── train.py         # Training pipeline
+├── test.py          # Evaluation script (PSNR/SSIM/MSE/MAE)
+├── config.py        # Hyperparameters and I/O configuration
+└── outputs/         # Checkpoints, metrics, visualization
 
 ```
 
