@@ -108,7 +108,9 @@ Each row contains:
 
 These samples demonstrate both noise removal quality and semantic inpainting performance.
 ## Model weight
-https://drive.google.com/drive/folders/1t68BPPN9yyUAYzl7nnPuYQ1iKHk1PJoM?usp=drive_link
+
+https://drive.google.com/file/d/1DFXYaunCy6phAxF31SjihNioqLrKU9j1/view?usp=sharing
+
 ---
 
 
